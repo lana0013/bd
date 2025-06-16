@@ -1,0 +1,31 @@
+# Ignorar pastas do Windows
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+AppData/
+Contacts/
+Desktop/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+NTUSER.*
+ntuser.*
+*.lnk
+desktop.ini
+*.blend
+*.jpg
+*.xcf
+*.ods
